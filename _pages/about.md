@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate student at [Beijing Jiaotong University](https://en.bjtu.edu.cn/) (BJTU), expecting to receive my B.Eng. degree in 2027. I will join the [Institute of Automation, Chinese Academy of Sciences](http://english.casia.cn/) (CASIA) as a master's student.
+I am a senior undergraduate student at  [School of Mechanical, Electronic and Control Engineering](https://mece.bjtu.edu.cn/), [Beijing Jiaotong University](https://mece.bjtu.edu.cn/) (BJTU), expecting to receive my B.Eng. degree in 2027. I will pursue my graduate studies at [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/) (CASIA) as a master's student. My research interests focus on multimodal perception and robot manipulation. If you are interested in my research, please feel free to contact me.
 
-<!-- TODO: 补充研究方向，例如：
-My research interests include [direction 1] and [direction 2]. I am looking for ...
--->
+
 
 # 🔥 News
 <!-- TODO: 有值得展示的动态时在这里添加，例如：
@@ -48,21 +46,27 @@ My research interests include [direction 1] and [direction 2]. I am looking for 
 
 -->
 
+# 📄 Preprints
+<!-- TODO: 尚未正式发表的文章（arXiv 预印本、在投论文等），格式示例：
+- [Paper Title](https://arxiv.org/abs/xxxx.xxxxx), **Yutong Chen**, Co-author A, Co-author B. *Under review*. [[arXiv](https://arxiv.org/abs/xxxx.xxxxx)] [[Code](https://github.com/gitagitty/xxx)]
+-->
+
 # 💻 Projects
 <!-- TODO: 项目展示，格式示例：
 - **[Project Name](https://github.com/gitagitty/xxx)** — One-sentence description. `Python` `PyTorch`
 -->
 
-# 🎖 Honors and Awards
-<!-- TODO: 格式示例：
-- *2025.10* National Scholarship, Beijing Jiaotong University.
--->
 
 # 📖 Educations
-- *2027.09 - (expected)*, M.S., [Institute of Automation, Chinese Academy of Sciences](http://english.casia.cn/) (CASIA).
-- *2023.09 - 2027.06 (expected)*, B.Eng., [Beijing Jiaotong University](https://en.bjtu.edu.cn/) (BJTU).
+- *2027.09 - 2030.06(expected)*, M.S., [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/) (CASIA).
+- *2023.09 - 2027.06 (expected)*, B.Eng., [School of Mechanical, Electronic and Control Engineering](https://mece.bjtu.edu.cn/), [Beijing Jiaotong University](https://www.bjtu.edu.cn/) (BJTU).
 
 # 💼 Internships
 <!-- TODO: 实习经历，格式示例：
 - *2026.06 - 2026.09*, Research Intern, [Lab/Company](link), Beijing, China.
+-->
+
+# 🎖 Honors and Awards
+<!-- TODO: 格式示例：
+- *2025.10* National Scholarship, Beijing Jiaotong University.
 -->
