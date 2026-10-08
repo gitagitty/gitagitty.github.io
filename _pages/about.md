@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate student at  [School of Mechanical, Electronic and Control Engineering](https://mece.bjtu.edu.cn/), [Beijing Jiaotong University](https://mece.bjtu.edu.cn/) (BJTU), expecting to receive my B.Eng. degree in 2027. I will pursue my graduate studies at [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/) (CASIA) as a master's student. My research interests focus on multimodal perception and robot manipulation. If you are interested in my research, please feel free to contact me at <EMAIL>23222002@bjtu.edu.cn.
+I am a senior undergraduate student at  [School of Mechanical, Electronic and Control Engineering](https://mece.bjtu.edu.cn/), [Beijing Jiaotong University](https://mece.bjtu.edu.cn/) (BJTU), expecting to receive my B.Eng. degree in 2027. I will pursue my graduate studies at [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/) (CASIA) as a master's student. My research interests focus on multimodal perception and robot manipulation. If you are interested in my research, please feel free to contact me at <a href="mailto:23222002@bjtu.edu.cn">23222002@bjtu.edu.cn</a>.
 
 
 
