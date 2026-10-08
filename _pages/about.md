@@ -22,40 +22,36 @@ I am a senior undergraduate student at  [School of Mechanical, Electronic and Co
 
 
 # 🔥 News
-<!-- TODO: 有值得展示的动态时在这里添加，例如：
-- *2026.10*: &nbsp;🎉🎉 One paper was accepted by XXX.
--->
+- *2026.10*: &nbsp;🔥🔥 We release **[ROMA](https://gewu-lab.github.io/ROMA/)**, an LLM-Based System for Real-World Object-Centric Multi-Sensory Active Perception! One step towards active multi-sensory embodied agents!
+- *2026.03*: &nbsp;🎉🎉 **Nonholonomic Narrow Dead-end Escape with Reinforcement Learning** is accepted to CSAI 2026! The [codes](https://github.com/gitagitty/cisDRL-RobotNav) are released!
 
 # 📝 Publications
 
-<!-- TODO: 每篇论文的格式如下（带配图的用 paper-box，不带的用列表项）：
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- One-sentence highlight of the paper.
-</div>
-</div>
-
-- [Paper Title](link), **Yutong Chen**, Co-author A, Co-author B, **Venue 2026**
-
--->
+- **<font size=4>Nonholonomic Narrow Dead-end Escape with Reinforcement Learning</font>**<br>
+  Denghan Xiong\*, Yanzhe Zhao\*, **Yutong Chen\***, Zichun Wang\*<br>
+  **CSAI 2026** &nbsp;\|&nbsp; arXiv: 2511.22338<br>
+  [\[Paper\]](https://doi.org/10.1145/3788149.3788204) \| [\[Code\]](https://github.com/gitagitty/cisDRL-RobotNav)
 
 # 📄 Preprints
-<!-- TODO: 尚未正式发表的文章（arXiv 预印本、在投论文等），格式示例：
-- [Paper Title](https://arxiv.org/abs/xxxx.xxxxx), **Yutong Chen**, Co-author A, Co-author B. *Under review*. [[arXiv](https://arxiv.org/abs/xxxx.xxxxx)] [[Code](https://github.com/gitagitty/xxx)]
--->
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ROMA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>ROMA: LLM System for Real-World Object-Centric
+Multi-Sensory Active Perception</font>**
+
+Ruoxuan Feng\*, **Yutong Chen\***, Ruihua Song, Huan Yang, Zhongyuan Wang, Guocai Yao, Di Hu
+
+arXiv 2610.06955
+
+[\[Paper\]](https://arxiv.org/pdf/2610.06955) \| [\[Code\]](https://github.com/GeWu-Lab/ROMA) \| [\[Project\]](https://gewu-lab.github.io/ROMA/)
+</div>
+</div>
 
 # 💻 Projects
 <!-- TODO: 项目展示，格式示例：
 - **[Project Name](https://github.com/gitagitty/xxx)** — One-sentence description. `Python` `PyTorch`
 -->
-
+- **[Visually based automatic docking system for two-wheeled robots](https://github.com/gitagitty/yolodc_ws)** — Use YOLO ROS2 and RGB-D camera to detect and control robots, enabling them to dock automatically. `Python` `PyTorch`
 
 # 📖 Educations
 - *2027.09 - 2030.06(expected)*, M.S., [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/) (CASIA).
@@ -65,8 +61,10 @@ I am a senior undergraduate student at  [School of Mechanical, Electronic and Co
 <!-- TODO: 实习经历，格式示例：
 - *2026.06 - 2026.09*, Research Intern, [Lab/Company](link), Beijing, China.
 -->
+- *2025.10 - 2026.10*, Research Assistant, [Gewu Lab](https://gewu-lab.github.io/), Gaoling School of Artificial Intelligence, Renmin University of China, Beijing, China.
 
 # 🎖 Honors and Awards
 <!-- TODO: 格式示例：
 - *2025.10* National Scholarship, Beijing Jiaotong University.
 -->
+- *2024.10* Shenzhou Railway Scholarship, Beijing Jiaotong University.
