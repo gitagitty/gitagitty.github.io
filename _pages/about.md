@@ -76,3 +76,4 @@ arXiv 2610.06955
 - *2025.10* National Scholarship, Beijing Jiaotong University.
 -->
 - *2024.10* Shenzhou Railway Scholarship, Beijing Jiaotong University.
+- *2026.10* WAGO Wanke Scholarship, Beijing Jiaotong University.
