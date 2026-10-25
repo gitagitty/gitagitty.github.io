@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate student at [School of Mechanical, Electronic and Control Engineering](https://mece.bjtu.edu.cn/), [Beijing Jiaotong University](https://www.bjtu.edu.cn/) (BJTU), expecting to receive my B.Eng. degree in 2027. I will pursue my graduate studies at [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/) (CASIA) as a master's student. My current research centers on multimodal perception and embodied agents; at CASIA I plan to work on vision-language-action (VLA) models and world models. If you are interested in my research, please feel free to contact me at <a href="mailto:23222002@bjtu.edu.cn">23222002@bjtu.edu.cn</a>.
+I am a senior undergraduate student at [School of Mechanical, Electronic and Control Engineering](https://mece.bjtu.edu.cn/), [Beijing Jiaotong University](https://www.bjtu.edu.cn/) (BJTU), expecting to receive my B.Eng. degree in 2027. I will pursue my graduate studies at [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/) (CASIA) as a master's student. My current research centers on multimodal perception and embodied agents; at CASIA I plan to work on vision-language-action (VLA) models and world models. If you are interested in my research, please feel free to contact me at <a href="mailto:chenyutong2027@ia.ac.cn">chenyutong2027@ia.ac.cn</a>.
 
 
 
